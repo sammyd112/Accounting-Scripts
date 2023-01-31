@@ -21,3 +21,37 @@ melon_seedlessness = {
     4: False,
     5: False,
 }
+
+melons_dic = {
+    'Honeydew' : {
+        'Price' : 0.99,
+        'Seeds' : 'True',
+        'flesh_color' : None,
+        'rind_color' : None,
+        'average_weight' : None},
+    'Crenshaw' : {
+        'Price' : 2.00,
+        'Seeds' : 'False',
+        'flesh_color' : None,
+        'rind_color' : None,
+        'average_weight' : None},
+    'Crane' : {
+        'Price' : 2.50,
+        'Seeds' : 'False',
+        'flesh_color' : None,
+        'rind_color' : None,
+        'average_weight': None},
+    'Casaba' : {
+        'Price' : 2.50,
+        'Seeds' : 'False',
+        'flesh_color' : None,
+        'rind_color' : None,
+        'average_weight' : None},
+    'Cantelope' : {
+        'Price' : 0.99,
+        'Seeds' : 'False',
+        'flesh_color' : None,
+        'rind_color' : None,
+        'average_weight' : None}
+    }
+  
